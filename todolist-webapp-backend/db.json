@@ -1,0 +1,12 @@
+{
+  "ids": {
+    "Todo": 1549385411865
+  },
+  "models": {
+    "Todo": {
+      "1": "{\"id\":1,\"title\":\"Get Milk\",\"description\":\"Getting milk is utmost neccesity today\",\"isDone\":false}",
+      "1549383039243": "{\"id\":1549383039243,\"title\":\"Get milk\",\"description\":\"Get another milk\",\"isDone\":false}",
+      "1549385411864": "{\"id\":1549385411864,\"title\":\"Get mobil\",\"description\":\"Some desciption\",\"isDone\":true}"
+    }
+  }
+}
